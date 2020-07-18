@@ -1,0 +1,39 @@
+
+body{
+    background-color: lightslategray;
+}
+.screen{
+    
+    height: 130px;
+    width: 252px;
+    border: 5px solid burlywood;
+    box-shadow: -10px 10px black;
+}
+.txt{
+    float: right;
+    font-size: 36px ;
+    color: white;
+}
+.numpad{
+    height: 313px;
+    width: 252px;
+    border: 5px solid burlywood;
+    box-shadow: -10px 10px black;
+}
+button{
+    width: 63px;
+    height: 63px;
+    color: white;
+    background-color: black;
+    border: 1px solid black;  
+    text-align: center;
+    float:left;
+}
+button:hover{
+    color: white;
+    font-size: 36px;
+    background-color: black;
+    cursor: pointer;
+  
+}
+
